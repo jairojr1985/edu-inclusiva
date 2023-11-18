@@ -69,6 +69,13 @@ main {
 main > img{
     margin:auto;
     display: block;
+    width: 90%;
+}
+article > h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2em;
 }
 
 article > p{
